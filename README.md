@@ -24,3 +24,4 @@ This workspace contains scripts, notebooks, and prepared datasets for building a
 3. Download dataset using the script and organize them 
 4. Open `BanglaLLM_local.ipynb` for training/data workflow.
 5. Open `ValidateBllm.ipynb` to run validation checks.
+6. Run `appGit.py` to get a 51.7M params model with vocab 32,000
