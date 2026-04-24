@@ -15,10 +15,11 @@ This workspace contains scripts, notebooks, and prepared datasets for building a
 - `bengali_datasets_originals/`: original/raw dataset snapshots.
 
 ## Quick Start
-1. Create a venv 
+1. Create a venv and activate the environment
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-2. Open `BanglaLLM_local.ipynb` for training/data workflow.
-3. Open `ValidateBllm.ipynb` to run validation checks.
+3. Download dataset using the script and organize them 
+4. Open `BanglaLLM_local.ipynb` for training/data workflow.
+5. Open `ValidateBllm.ipynb` to run validation checks.
