@@ -8,6 +8,7 @@ This workspace contains scripts, notebooks, and prepared datasets for building a
 - `BanglaLLM_local.ipynb`: local workflow notebook.
 - `ValidateBllm.ipynb`: model validation notebook.
 - `requirements.txt`: Python dependencies.
+- `final_model`: Model Trained on partial dataset. 
 
 ## Key Folders
 - `BanglaLLM/`: cleaned/final datasets, tokenizer assets, checkpoints, and final model files.
