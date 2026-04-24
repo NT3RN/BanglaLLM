@@ -2,6 +2,7 @@
 
 This workspace contains scripts, notebooks, and prepared datasets for building and validating a Bangla language model pipeline.
 
+
 ## Main Files
 - `downloadMC4.py` and `downloadTitulm.py`: dataset download/prep scripts.
 - `BanglaLLM_local.ipynb`: local workflow notebook.
@@ -14,7 +15,8 @@ This workspace contains scripts, notebooks, and prepared datasets for building a
 - `bengali_datasets_originals/`: original/raw dataset snapshots.
 
 ## Quick Start
-1. Install dependencies:
+1. Create a venv 
+2. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
