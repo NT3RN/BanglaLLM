@@ -19,7 +19,7 @@ This workspace contains scripts, notebooks, and prepared datasets for building a
 1. Create a venv and activate the environment
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install transformers==4.51.0 accelerate datasets sentencepiece safetensors pyarrow flask datasketch huggingface_hub tensorboard ninja packaging
    ```
 3. Download dataset using the script and organize them 
 4. Open `BanglaLLM_local.ipynb` for training/data workflow.
