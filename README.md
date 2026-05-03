@@ -7,7 +7,7 @@ This workspace contains scripts, notebooks, and prepared datasets for building a
 - `downloadMC4.py` and `downloadTitulm.py`: dataset download/prep scripts.
 - `BanglaLLM_local.ipynb`: local workflow notebook.
 - `ValidateBllm.ipynb`: model validation notebook.
-- `requirements.txt`: Python dependencies.
+- `requirements.txt`: Python dependencies on fedora 43 kde plasma.
 - `final_model`: Model Trained on partial dataset. 
 
 ## Key Folders
